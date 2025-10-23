@@ -39,9 +39,15 @@
                                 </div>
                             </div>";
                     }
+                }else{
+                    echo "<p>Nenhuma imagem encontrada.</p>";
                 }
             ?>
         </div>
     </main>
+
+    <footer>
+        &copy; 2025 Banco de Imagens. Todos os direitos reservados.
+    </footer>
 </body>
 </html>
